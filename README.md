@@ -198,17 +198,6 @@ Train / Analyze
 ```bash
 jupyter notebook SecurityProject.ipynb
 ```
-
-## 📸 Future Improvements
-
-- Deep Learning-based anomaly detection
-- Explainable AI (SHAP/LIME)
-- SIEM Integration
-- Email & Telegram alerts
-- Docker deployment
-- REST API
-- Support for Linux endpoint logs
-
 ---
 
 ## 📄 Report
