@@ -196,7 +196,7 @@ pip install -r requirements.txt
 Train / Analyze
 
 ```bash
-jupyter notebook SecurityProject.ipynb
+jupyter notebook Log Anomaly Detection Code.ipynb
 ```
 ---
 
@@ -204,7 +204,7 @@ jupyter notebook SecurityProject.ipynb
 
 The full implementation details, methodology, experiments, and analysis are available in:
 
-**SecurityAnalysisReport.docx**
+**Log Anomaly Detection Report.pdf**
 
 ---
 
